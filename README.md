@@ -6,7 +6,7 @@ StarPath provides a network of 2,859 protein-protein interactions (PPIs), resolv
 
 Data: 
 * xlms_data: contains all empirical PPI and crosslink-secific XL-MS data and T. gondii RH88 proteome
-* processed_chai_outputs: contains all analysis outputs from *_process_*.py scripts. Includes PAE, iPAE, PTM, iPTM, and crosslink-site distance metrics
+* processed_chai_outputs: contains all analysis outputs from '\*\_process\_\*.py' scripts. Includes PAE, iPAE, PTM, iPTM, and crosslink-site distance metrics
 
 Scripts: 
 * subsetted by prediction type. Includes all scripts needed for inference and processing the inference outputs.
